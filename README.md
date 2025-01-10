@@ -10,3 +10,5 @@ A simple program that outputs the variables,as shown in pgm3.js.
 A simple program that manipulats the strings,as shown in pgm4.js.
 # 5. Conditional Statements 
 A simple program using conditional statements,as shown in pgm5.js.
+# 6. Looping in JS 
+simple programs to demonstrate how loopin works,as shown in pgm5.js.
